@@ -1,0 +1,63 @@
+body{
+	background-color:#ff002b;
+	margin:25px;
+	border-color:red;
+	border-style:solid;
+	border-radius:20px;
+	border-width:10px;
+	text-align:center;
+	font-family:Comic Sans MS;
+}
+
+
+article{
+		background-color:#bbff00;
+	margin:25px;
+	border-color:purple;
+	border-style:solid;
+	border-radius:80px;
+	border-width:10px;
+	text-align:center;
+	font-family:pacifico;
+	padding:12px;
+	color:#00ff40;
+	color:#e6ff26;
+}
+fieldset,legend{
+		background-color:#ffd761;
+	margin:25px;
+	border-color:yellow;
+	border-style:solid;
+	border-radius:80px;
+	border-width:10px;
+	text-align:center;
+	font-family:Comic Sans MS;
+	padding:12px;
+	color:#b8c8ff;
+}
+header{
+	background-color:#f759ff;
+	margin:25px;
+	border-color:blue;
+	border-style:solid;
+	border-radius:80px;
+	border-width:10px;
+	text-align:center;
+	font-family::Comic Sans MS;
+	padding:12px;
+	color:#ff59cb;
+	color:#78ffd9;
+}
+	
+	
+button{
+	background-color:pink;
+	border-color:black;
+	border-radius:50px;
+	border-width:6px;
+	box-shadow: 2px 2px 2px blue;
+	color:white;
+	font-size:40px;
+	padding:6px;
+	margin:25px;
+}
